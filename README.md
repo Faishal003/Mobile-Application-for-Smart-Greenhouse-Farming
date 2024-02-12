@@ -9,9 +9,20 @@ promptly and efficiently, leading to optimized greenhouse management and increas
  # 💥Features Included💥
  * User Authentication.
  * Greenhouse Management like View registered greenhouses, details, and register new ones.
- * Monitoring real time sensor data.
- * Plot 24 hours data in the graph.
+ * Monitoring real-time sensor data.
+ * Plot 24-hour data in the graph.
  * Remotely accessible.
+# Screenshots
+
+<p float="left">
+  <img src="https://github.com/Faishal003/Mobile-Application-for-Smart-Greenhouse-Farming/assets/73869161/309be72a-2f15-4c98-a9b7-ecd221f3ccc9" width="15%" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Faishal003/Mobile-Application-for-Smart-Greenhouse-Farming/assets/73869161/913ad4f7-8fc0-4ae1-8686-dbd1ac2ba1a8" width="15%" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Faishal003/Mobile-Application-for-Smart-Greenhouse-Farming/assets/73869161/29967bd4-4f41-4392-8879-8078dac55105" width="15%" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Faishal003/Mobile-Application-for-Smart-Greenhouse-Farming/assets/73869161/6cb96cf4-4fa7-4bae-b3cf-b31307f36c2d" width="15%" />
+</p>
 
 # Clone the Repository
 After installing the prerequisite files just clone the project:<br>
