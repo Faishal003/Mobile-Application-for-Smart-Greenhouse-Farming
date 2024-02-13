@@ -3,7 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/Faishal003/Mobile-Application-for-Smart-Greenhouse-Farming?color=deepgreen) ![Static Badge](https://img.shields.io/badge/python-3.10-deepgreen?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F) ![Static Badge](https://img.shields.io/badge/django-5.0-deepgreen) ![Static Badge](https://img.shields.io/badge/flutter-3.13.9-deepgreen)
 
 
-Spearheaded the development of a mobile application for Smart Greenhouse Farming using Flutter for the frontend and Django for the backend, facilitating remote monitoring and management of greenhouse farms. Integrated real-time sensor data visualization into the app, empowering farmers to make informed decisions
+Spearheaded the development of a mobile application for Smart Greenhouse Farming using Flutter for the Frontend and Django for the Backend, facilitating remote monitoring and management of greenhouse farms. Integrated real-time sensor data visualization into the app, empowering farmers to make informed decisions
 promptly and efficiently, leading to optimized greenhouse management and increased crop yield.
 
  # 💥Features Included💥
